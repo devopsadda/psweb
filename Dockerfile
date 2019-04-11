@@ -1,8 +1,8 @@
-# Test web-app to use with Pluralsight courses and Docker Deep Dive book
+# Test web-app to use with docker learning
 # Linux x64
 FROM alpine
 
-LABEL maintainer="nigelpoulton@hotmail.com"
+LABEL maintainer="tanvir0102@gmail.com"
 
 # Install Node and NPM
 RUN apk add --update nodejs nodejs-npm
